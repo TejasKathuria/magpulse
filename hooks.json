@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "hooks": {
+    "beforeSubmitPrompt": [{ "command": "./hooks/led-start.sh" }],
+    "stop": [{ "command": "./hooks/led-stop.sh" }]
+  }
+}

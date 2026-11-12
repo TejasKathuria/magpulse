@@ -1,0 +1,18 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Build artifacts and binaries
+aclc
+aclc-pulse
+magpulse-daemon
+Magpulse-bin
+*.o
+*.dSYM
+*.app
+
+# Temporary / Swift cache
+.swift-module-cache/
+
