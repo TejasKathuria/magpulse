@@ -12,6 +12,7 @@ Magpulse-bin
 *.o
 *.dSYM
 *.app
+*.dmg
 
 # Temporary / Swift cache
 .swift-module-cache/
