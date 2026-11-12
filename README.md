@@ -4,7 +4,7 @@
 
 ---
 
-## ✨ Features
+##  Features
 
 1. **Master Toggle**
    - Instantly activate or silence Magpulse with a single switch.
@@ -52,7 +52,7 @@
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Option 1: Open the App
 
