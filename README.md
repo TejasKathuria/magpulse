@@ -1,4 +1,6 @@
 #  Magpulse
+<img width="1270" height="928" alt="CleanShot 2026-11-13 at 1 14 22 AM@2x" src="https://github.com/user-attachments/assets/cb930309-63a8-4b2c-af57-35a59c238a54" />
+
 
 **MagPulse** is a native macOS application that turns your MacBook's MagSafe 3 charging LED into a dynamic breathing/pulsing status light whenever your AI coding agents are working.
 
